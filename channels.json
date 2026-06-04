@@ -9,14 +9,6 @@
     "creatorName": "Darul Da'awa"
   },
   {
-    "title": "WWW FILMS",
-    "category": "General Live",
-    "type": "vlc",
-    "streamType": "vlc",
-    "streamUrl": "https://iptv-org.github.io/iptv/categories/movies.m3u",
-    "creatorName": "Exona Admin"
-  },
-  {
     "title": "HAJJ CHANNEL",
     "category": "General Live",
     "type": "video",
