@@ -1,0 +1,6 @@
+{
+  "isLive": true,
+  "type": "vlc",
+  "title": "EXON BROADCAST TERMINAL",
+  "streamUrl": "https://example.com/stream.m3u8"
+}
