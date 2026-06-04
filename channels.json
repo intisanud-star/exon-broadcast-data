@@ -1,0 +1,64 @@
+[
+  {
+    "title": "TVC NEWS",
+    "category": "General Live",
+    "type": "video",
+    "streamType": "youtube",
+    "videoId": "b-Yzp0l8cAM",
+    "streamUrl": "https://www.youtube.com/watch?v=b-Yzp0l8cAM",
+    "creatorName": "Darul furqan Da'awa"
+  },
+  {
+    "title": "WWW FILMS",
+    "category": "General Live",
+    "type": "vlc",
+    "streamType": "vlc",
+    "streamUrl": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+    "creatorName": "Exona Admin"
+  },
+  {
+    "title": "HAJJ CHANNEL",
+    "category": "General Live",
+    "type": "video",
+    "streamType": "youtube",
+    "videoId": "ZQmATb5E4-U",
+    "streamUrl": "https://www.youtube.com/watch?v=ZQmATb5E4-U",
+    "creatorName": "Exona Admin"
+  },
+  {
+    "title": "WWW SPACE",
+    "category": "Space & Science",
+    "type": "video",
+    "streamType": "youtube",
+    "videoId": "uwXgcTc8oY8",
+    "streamUrl": "https://www.youtube.com/watch?v=uwXgcTc8oY8",
+    "creatorName": "Darul furqan Da'awa"
+  },
+  {
+    "title": "Makkah live",
+    "category": "General Live",
+    "type": "video",
+    "streamType": "youtube",
+    "videoId": "xeW5mN_fveI",
+    "streamUrl": "https://www.youtube.com/watch?v=xeW5mN_fveI",
+    "creatorName": "Darul furqan Da'awa"
+  },
+  {
+    "title": "Daily Dua TV",
+    "category": "General Live",
+    "type": "video",
+    "streamType": "youtube",
+    "videoId": "gZXX3xz8FKg",
+    "streamUrl": "https://www.youtube.com/watch?v=gZXX3xz8FKg",
+    "creatorName": "Darul furqan Da'awa"
+  },
+  {
+    "title": "Al jazeera",
+    "category": "General Live",
+    "type": "video",
+    "streamType": "youtube",
+    "videoId": "gCNeDWCI0vo",
+    "streamUrl": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "creatorName": "Darul furqan Da'awa"
+  }
+]
