@@ -53,4 +53,12 @@
     "streamUrl": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
     "creatorName": "Darul furqan Da'awa"
   }
+  {
+  "title": "Apple Test Stream",
+  "category": "General Live",
+  "type": "video",
+  "streamType": "hls",
+  "streamUrl": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
+  "creatorName": "Exona Admin"
+}
 ]
