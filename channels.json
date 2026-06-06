@@ -1,50 +1,10 @@
 [
   {
-    "title": "TVC NEWS",
-    "category": "General Live",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8",
-    "creatorName": "Teaam"
-  },
-  {
     "title": "FRANCE 24",
     "category": "General Live",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
     "creatorName": "Exon Admin"
-  },
-  {
-    "title": "WWW SPACE",
-    "category": "Space & Science",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://ntv1.nasatv.live/nasatv/ntv1_720p/chunks.m3u8",
-    "creatorName": "Darul furqan Da'awa"
-  },
-  {
-    "title": "Makkah live",
-    "category": "General Live",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://shls-makkahlive-prod-dub.secure.footprint.net/out/v1/70868f9a2e6a4b118b628ec32fb5a4b7/index.m3u8",
-    "creatorName": "ExonApp Team"
-  },
-  {
-    "title": "SKY NEWS",
-    "category": "General Live",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://bcliveuniversallive-lh.akamaihd.net/i/skynewsworld_1@112348/master.m3u8",
-    "creatorName": "Exon Admin"
-  },
-  {
-    "title": "Al jazeera",
-    "category": "General Live",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://live-amc-eu.akamaized.net/aje/index.m3u8",
-    "creatorName": "Darul furqan Da'awa"
   }
 ]
