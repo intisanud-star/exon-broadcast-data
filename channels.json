@@ -1,13 +1,5 @@
 [
   {
-    "title": "BOLLYWOOD",
-    "category": "Entertainment",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
-    "creatorName": "ExonApp Team"
-  },
-  {
     "title": "SUNNA TV",
     "category": "Religious",
     "type": "video",
@@ -77,6 +69,14 @@
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "BOLLYWOOD",
+    "category": "Entertainment",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
     "creatorName": "ExonApp Team"
   }
 ]
