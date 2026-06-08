@@ -16,6 +16,14 @@
     "creatorName": "ExonApp Team"
   },
   {
+    "title": "MBC 1",
+    "category": "Entertainment",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
     "title": "BBC NEWS",
     "category": "International News",
     "type": "video",
