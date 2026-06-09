@@ -1,13 +1,5 @@
 [
   {
-    "title": "DOUNIA TV",
-    "category": "International News",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
-    "creatorName": "ExonApp Teams"
-  },
-  {
     "title": "SUNNA TV",
     "category": "Religious",
     "type": "video",
@@ -44,4 +36,31 @@
     "category": "International News",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://dwamdstream102.akama
+    "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "SUNNAH LIVE",
+    "category": "Religious",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "DOUNIA TV",
+    "category": "International News",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "BOLLYWOOD",
+    "category": "Entertainment",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+    "creatorName": "ExonApp Team"
+  }
+]
