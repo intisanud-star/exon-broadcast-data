@@ -29,7 +29,7 @@
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
-    "creatorName": "ExonApp Niger"
+    "creatorName": "ExonApp Team"
   },
   {
     "title": "TAL TV",
@@ -37,7 +37,7 @@
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
-    "creatorName": "ExonApp Niger"
+    "creatorName": "ExonApp Team"
   },
   {
     "title": "BBC NEWS",
@@ -68,7 +68,7 @@
     "category": "Entertainment",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+    "streamUrl": "https://pubads.g.doubleclick.net/ssai/event/S-wGg_3vS8K4w7T92T39-g/master.m3u8",
     "creatorName": "ExonApp Team"
   }
 ]
