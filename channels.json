@@ -8,14 +8,6 @@
     "creatorName": "ExonApp Team"
   },
   {
-    "title": "TAL TV",
-    "category": "International News",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
-    "creatorName": "ExonApp Team"
-  },
-  {
     "title": "ROYA KIDS",
     "category": "Kids",
     "type": "video",
@@ -24,19 +16,35 @@
     "creatorName": "ExonApp Team"
   },
   {
-    "title": "BBC NEWS",
-    "category": "International News",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "creatorName": "ExonApp Team"
-  },
-  {
     "title": "MANARA TV",
     "category": "Religious",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_016/Stream/playlist.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "TELE SAHEL",
+    "category": "International News",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "TAL TV",
+    "category": "International News",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
+    "title": "BBC NEWS",
+    "category": "International News",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
     "creatorName": "ExonApp Team"
   },
   {
