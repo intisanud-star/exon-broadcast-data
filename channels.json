@@ -5,7 +5,7 @@
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8",
-    "creatorName": "ExonApp Team"
+    "creatorName": "ExonApp uTeam"
   },
   {
     "title": "ROYA KIDS",
@@ -60,7 +60,7 @@
     "category": "Religious",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+    "streamUrl": "https://sss.b-cdn.net/sunnah/index.m3u8",
     "creatorName": "ExonApp Team"
   },
   {
