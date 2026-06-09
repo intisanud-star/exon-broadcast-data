@@ -60,7 +60,7 @@
     "category": "Religious",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://hd.isat.is:4443/live/sunna.m3u8",
+    "streamUrl": "https://stream.al-eman.com/hls/stream.m3u8",
     "creatorName": "ExonApp Team"
   },
   {
@@ -68,7 +68,7 @@
     "category": "Entertainment",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://linear-413.bsomecdn.me/bollywood/index.m3u8",
+    "streamUrl": "https://9409ed79f88c.us-east-1.playback.live-video.net/api/video/v1/us-east-1.916172671569.channel.vC65A1L66bsw.m3u8",
     "creatorName": "ExonApp Team"
   }
-    ]
+]
