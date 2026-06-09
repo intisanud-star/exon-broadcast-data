@@ -8,6 +8,14 @@
     "creatorName": "ExonApp Team"
   },
   {
+    "title": "DOUNIA TV",
+    "category": "International News",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
+    "creatorName": "ExonApp Team"
+  },
+  {
     "title": "ROYA KIDS",
     "category": "Kids",
     "type": "video",
@@ -45,14 +53,6 @@
     "type": "video",
     "streamType": "hls",
     "streamUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "creatorName": "ExonApp Team"
-  },
-  {
-    "title": "DOUNIA TV",
-    "category": "International News",
-    "type": "video",
-    "streamType": "hls",
-    "streamUrl": "https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8",
     "creatorName": "ExonApp Team"
   },
   {
