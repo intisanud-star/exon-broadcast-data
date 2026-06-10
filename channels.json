@@ -18,5 +18,8 @@
   { "title": "MBC DRAMA", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "creatorName": "ExonApp United Arab Emirates" },
   { "title": "QTV GAMBIA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8", "creatorName": "ExonApp Gambia" },
   { "title": "QATAR TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8", "creatorName": "ExonApp Qatar" },
-  { "title": "TEHRAN TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8", "creatorName": "ExonApp Iran" }
+  { "title": "TEHRAN TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8", "creatorName": "ExonApp Iran" },
+  { "title": "IRIB TV3", "category": "Sports", "type": "video", "streamType": "hls", "streamUrl": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8", "creatorName": "ExonApp Iran" },
+  { "title": "IRINN", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8", "creatorName": "ExonApp Iran" },
+  { "title": "IRIB VARZESH", "category": "Sports", "type": "video", "streamType": "hls", "streamUrl": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8", "creatorName": "ExonApp Iran" }
     ]
