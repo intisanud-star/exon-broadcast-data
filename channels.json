@@ -15,5 +15,8 @@
   { "title": "MBC 1", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "creatorName": "ExonApp United Arab Emirates" },
   { "title": "MBC 4", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8", "creatorName": "ExonApp United Arab Emirates" },
   { "title": "MBC 5", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8", "creatorName": "ExonApp United Arab Emirates" },
-  { "title": "MBC DRAMA", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "creatorName": "ExonApp United Arab Emirates" }
-]
+  { "title": "MBC DRAMA", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "creatorName": "ExonApp United Arab Emirates" },
+  { "title": "QTV GAMBIA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8", "creatorName": "ExonApp Gambia" },
+  { "title": "QATAR TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8", "creatorName": "ExonApp Qatar" },
+  { "title": "TEHRAN TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8", "creatorName": "ExonApp Iran" }
+    ]
