@@ -9,5 +9,6 @@
   { "title": "SUNNAH LIVE", "category": "Religious", "type": "video", "streamType": "hls", "streamUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8", "creatorName": "ExonApp Saudi Arabia" },
   { "title": "BOLLYWOOD", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8", "creatorName": "ExonApp United Arab Emirates" },
   { "title": "SAUDI TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8", "creatorName": "ExonApp Saudi Arabia" },
-  { "title": "AL JAZEERA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8", "creatorName": "ExonApp Qatar" }
+  { "title": "AL JAZEERA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8", "creatorName": "ExonApp Qatar" },
+  { "title": "BBC SERIES", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8", "creatorName": "ExonApp United Kingdom" }
 ]
