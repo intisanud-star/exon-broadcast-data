@@ -1,4 +1,6 @@
 [
+  { "title": "AL ARABIYA ENGLISH", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8", "creatorName": "Exona TV Saudi Arabia" },
+  { "title": "AFLAM", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8", "creatorName": "Exona TV Saudi Arabia" },
   { "title": "AL ARABIYA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
   { "title": "AL QAMAR", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://streamer3.premio.link/alqamar/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
   { "title": "AL SHALLAL", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
@@ -25,5 +27,4 @@
   { "title": "CARS TV", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://iptv.prosto.tv/ch111/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q", "creatorName": "Exona TV Ukraine" },
   { "title": "BBC NEWS", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "creatorName": "Exona TV United Kingdom" },
   { "title": "BBC SERIES", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8", "creatorName": "Exona TV United Kingdom" }
-    ]
-    
+]
