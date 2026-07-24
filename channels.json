@@ -1,7 +1,8 @@
 [
-  { "title": "AL ARABIYA ENGLISH", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8", "creatorName": "Exona TV Saudi Arabia" },
-  { "title": "AFLAM", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8", "creatorName": "Exona TV Saudi Arabia" },
+  { "title": "AL JAZEERA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8", "creatorName": "Exona TV Qatar" },
+  { "title": "BBC NEWS", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "creatorName": "Exona TV United Kingdom" },
   { "title": "AL ARABIYA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
+  { "title": "AFLAM", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8", "creatorName": "Exona TV Saudi Arabia" },
   { "title": "AL QAMAR", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://streamer3.premio.link/alqamar/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
   { "title": "AL SHALLAL", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
   { "title": "AL WASTA TV", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8", "creatorName": "Exona TV United Arab Emirates" },
@@ -24,11 +25,9 @@
   { "title": "MANARA TV", "category": "Religious", "type": "video", "streamType": "hls", "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_016/Stream/playlist.m3u8", "creatorName": "Exona TV Nigeria" },
   { "title": "QAUSAIN TV", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8", "creatorName": "Exona TV Nigeria" },
   { "title": "SUNNAH TV", "category": "Religious", "type": "video", "streamType": "hls", "streamUrl": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8", "creatorName": "Exona TV Nigeria" },
-  { "title": "AL JAZEERA", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8", "creatorName": "Exona TV Qatar" },
   { "title": "QATAR TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8", "creatorName": "Exona TV Qatar" },
   { "title": "SAUDI TV", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8", "creatorName": "Exona TV Saudi Arabia" },
   { "title": "SUNNAH LIVE", "category": "Religious", "type": "video", "streamType": "hls", "streamUrl": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8", "creatorName": "Exona TV Saudi Arabia" },
   { "title": "CARS TV", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://iptv.prosto.tv/ch111/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q", "creatorName": "Exona TV Ukraine" },
-  { "title": "BBC NEWS", "category": "International News", "type": "video", "streamType": "hls", "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "creatorName": "Exona TV United Kingdom" },
   { "title": "BBC SERIES", "category": "Entertainment", "type": "video", "streamType": "hls", "streamUrl": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8", "creatorName": "Exona TV United Kingdom" }
 ]
