@@ -4,7 +4,7 @@
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
     "creatorName": "Exona TV International"
   },
   {
@@ -12,7 +12,7 @@
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8",
+    "streamUrl": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
     "creatorName": "Exona TV International"
   },
   {
@@ -20,7 +20,7 @@
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
     "creatorName": "Exona TV International"
   },
   {
@@ -28,7 +28,7 @@
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
-    "streamUrl": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
+    "streamUrl": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8",
     "creatorName": "Exona TV International"
   },
   {
@@ -36,7 +36,31 @@
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
+    "streamUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+    "creatorName": "Exona TV International"
+  },
+  {
+    "title": "BEIN SPORTS 6",
+    "category": "Sports",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
+    "creatorName": "Exona TV International"
+  },
+  {
+    "title": "BEIN SPORTS 7",
+    "category": "Sports",
+    "type": "video",
+    "streamType": "hls",
     "streamUrl": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8",
+    "creatorName": "Exona TV International"
+  },
+  {
+    "title": "BEIN SPORTS 8",
+    "category": "Sports",
+    "type": "video",
+    "streamType": "hls",
+    "streamUrl": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
     "creatorName": "Exona TV International"
   }
 ]
