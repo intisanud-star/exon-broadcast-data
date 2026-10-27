@@ -5,62 +5,62 @@
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 2",
+    "title": "BEIN SPORTS ESPAÑOL",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 3",
+    "title": "BEIN SPORTS LIVE",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 4",
+    "title": "BEIN SPORTS EXTRA",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 5",
+    "title": "BEIN SPORTS GLOBAL",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 6",
+    "title": "BEIN SPORTS XTRA",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 7",
+    "title": "BEIN SPORTS PRIME",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   },
   {
-    "title": "BEIN SPORTS 8",
+    "title": "BEIN SPORTS NACIÓN",
     "category": "Sports",
     "type": "video",
     "streamType": "hls",
     "streamUrl": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
-    "creatorName": "Exona TV International"
+    "creatorName": "Mojtaba"
   }
 ]
