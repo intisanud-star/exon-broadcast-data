@@ -1,1 +1,9 @@
+{
+  "title": "BIG BUCK BUNNY",
+  "category": "Entertainment",
+  "type": "video",
+  "streamType": "hls",
+  "streamUrl": "https://test-streams.mux.dev/bigbuckbunny/bbb.m3u8",
+  "creatorName": "laptok tester account"
+}
 
